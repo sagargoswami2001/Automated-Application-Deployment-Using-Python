@@ -1,5 +1,5 @@
 {
-    "name": "cd-demo",
+    "name": "mywebapp",
     "version": "1.0.0",
     "description": "Continious Deployment with Github Actions, DockerHub and Netlify",
     "scripts": {
