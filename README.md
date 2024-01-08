@@ -1,2 +1,2 @@
-# Automated Application Deployment Using Node.js
+# Automated Application Deployment Using Python
 DevOps Challenge: Automated Application Deployment and Management
