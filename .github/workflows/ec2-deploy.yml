@@ -58,4 +58,4 @@ jobs:
 
     - name: Run new container
       run: |
-        ssh -o StrictHostKeyChecking=no -i key.pem ubuntu@54.165.151.230 'sudo docker run -d --name mywebapp -p 80:3000 sagargoswami2001/mywebapp:latest'
+        ssh -o StrictHostKeyChecking=no -i key.pem ubuntu@54.165.151.230 'sudo docker run -d --name mywebapp -p 80:5000 sagargoswami2001/mywebapp:latest'
